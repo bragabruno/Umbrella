@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+    <string name="zip_code">Zip</string>
+    <string name="units_selection">Units</string>
+    <string name="current_city_location">Minneapolis, MN</string>
+    <string name="umbrella_setting">Setting</string>
+    <string name="weather_type">Clear</string>
+    <string name="temperature">11ºC</string>
+</resources>
